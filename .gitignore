@@ -1,6 +1,7 @@
-# Ignore everything...
+# Ignore everything
 *
 
-# Except this repo config folder and the gitignore itself
+# But allow these:
 !/.gitignore
 !/conf/
+!/conf/**
